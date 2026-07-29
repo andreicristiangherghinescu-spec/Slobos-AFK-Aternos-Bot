@@ -1,14 +1,14 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "GOGO",
     "password": "",
     "type": "offline"
   },
   "server": {
     "ip": "BreaslaMinerilor12.aternos.me",
     "port": 25743,
-    "version": "",
+    "version": "26.2",
     "try-creative": false
   },
   "position": {
