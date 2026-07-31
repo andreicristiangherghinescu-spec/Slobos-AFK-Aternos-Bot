@@ -1,14 +1,14 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "IASBOT",
+    "username": "GOGO",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "xByAlvaroSSJ_MC.aternos.me",
-    "port": 34249,
-    "version": "1.21.1",
+    "ip": "stardust2030.aternos.me",
+    "port": 15641,
+    "version": "26.2",
     "try-creative": false
   },
   "position": {
